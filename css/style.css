@@ -37,13 +37,13 @@ body{
     line-height: 100%;
     margin-top: 78px;
     display: block;
-    font-family: ProximaNova-Black, sans-serif;
+    font-family: 'ProximaNova-Black', sans-serif;
 }
 .hero__title{
     margin-top: 5px;
     font-size: 64px;
     line-height: 78px;
-    font-family: ProximaNova-Black, sans-serif;
+    font-family: 'ProximaNova-Black', sans-serif;
 }
 .hero__description{
     font-size: 18px;
