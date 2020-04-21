@@ -118,8 +118,5 @@ body{
     position: absolute;
     left: 0;
     top: 0;
-    z-index: 0;
-}
-.slider__year{
-    position: relative;
+    z-index: -1;
 }
